@@ -1,0 +1,170 @@
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\ApplicationInsights.config
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.DependencyCollector.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.Web.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.WindowsServer.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.ApplicationInsights.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Models.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.Deployment.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.Razor.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Models.pdb
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.DependencyCollector.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.Web.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.WindowsServer.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.ApplicationInsights.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.Deployment.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.Razor.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\PagedList.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\PagedList.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\ApplicationInsights.config
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.Web.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.WindowsServer.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.ApplicationInsights.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Models.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\PagedList.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.Deployment.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.Razor.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Models.pdb
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.Web.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.AI.WindowsServer.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.ApplicationInsights.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\PagedList.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.Deployment.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Webpages.Razor.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\ApplicationInsights.config
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.Web.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.WindowsServer.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.ApplicationInsights.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Models.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\PagedList.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Webpages.Deployment.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Webpages.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Webpages.Razor.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Models.pdb
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Models.dll.config
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.Web.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.AI.WindowsServer.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.ApplicationInsights.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\PagedList.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Webpages.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Webpages.Deployment.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Webpages.Razor.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.Up2Date
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+D:\DoanQuanLyBanHang\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb

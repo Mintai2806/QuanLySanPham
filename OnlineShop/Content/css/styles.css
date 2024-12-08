@@ -1,0 +1,141 @@
+﻿/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.panel-heading {
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+caption {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #007bff;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+    background-color: #fff;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Image Styling */
+img {
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+    img:hover {
+        transform: scale(1.1);
+    }
+
+/* Action Buttons */
+.action-column a {
+    margin: 0 5px;
+    padding: 8px 15px;
+    font-size: 14px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Edit Button */
+.btn-edit {
+    background-color: #28a745;
+    color: white;
+    border: 1px solid #28a745;
+}
+
+    .btn-edit:hover {
+        background-color: #218838;
+        border-color: #1e7e34;
+        color: white;
+        transform: translateY(-2px);
+    }
+
+/* Delete Button */
+.btn-delete {
+    background-color: #dc3545;
+    color: white;
+    border: 1px solid #dc3545;
+}
+
+    .btn-delete:hover {
+        background-color: #c82333;
+        border-color: #bd2130;
+        color: white;
+        transform: translateY(-2px);
+    }
+
+    /* Focus and Active States */
+    .btn-edit:focus, .btn-delete:focus {
+        outline: none;
+        box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5); /* For Edit */
+    }
+
+    .btn-delete:focus {
+        box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5); /* For Delete */
+    }
+
+
+/* Pagination Styling */
+.pagination-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .pagination-container .pagination {
+        display: inline-block;
+        padding: 5px;
+    }
+
+        .pagination-container .pagination a {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            text-decoration: none;
+            color: #007bff;
+        }
+
+            .pagination-container .pagination a:hover {
+                background-color: #f1f1f1;
+            }
+
+        .pagination-container .pagination .active a {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .pagination-container .pagination .disabled a {
+            background-color: #e9ecef;
+            color: #6c757d;
+        }

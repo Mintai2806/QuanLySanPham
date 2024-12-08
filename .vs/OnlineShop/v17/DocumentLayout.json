@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoanQuanLyBanHang\\OnlineShop\\OnlineShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5E4217-8386-489C-9ED7-64B895872658}|OnlineShop\\OnlineShop.csproj|d:\\doanquanlybanhang\\onlineshop\\onlineshop\\onlineshop\\areas\\admin\\views\\productmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D5E4217-8386-489C-9ED7-64B895872658}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\admin\\views\\productmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5E4217-8386-489C-9ED7-64B895872658}|OnlineShop\\OnlineShop.csproj|D:\\DoanQuanLyBanHang\\OnlineShop\\OnlineShop\\onlineshop\\areas\\admin\\views\\productmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D5E4217-8386-489C-9ED7-64B895872658}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\admin\\views\\productmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5E4217-8386-489C-9ED7-64B895872658}|OnlineShop\\OnlineShop.csproj|D:\\DoanQuanLyBanHang\\OnlineShop\\OnlineShop\\onlineshop\\areas\\admin\\views\\productmanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D5E4217-8386-489C-9ED7-64B895872658}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\admin\\views\\productmanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DoanQuanLyBanHang\\OnlineShop\\OnlineShop\\OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
+              "ToolTip": "D:\\DoanQuanLyBanHang\\OnlineShop\\OnlineShop\\OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T07:16:09.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DoanQuanLyBanHang\\OnlineShop\\OnlineShop\\OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
+              "ToolTip": "D:\\DoanQuanLyBanHang\\OnlineShop\\OnlineShop\\OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
+              "RelativeToolTip": "OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T07:12:14.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DoanQuanLyBanHang\\OnlineShop\\OnlineShop\\OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
+              "ToolTip": "D:\\DoanQuanLyBanHang\\OnlineShop\\OnlineShop\\OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
+              "RelativeToolTip": "OnlineShop\\Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T07:10:37.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
